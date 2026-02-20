@@ -1,2 +1,2 @@
-# Class_Aishwarya_Mam
+# Class
 Class practise codes
